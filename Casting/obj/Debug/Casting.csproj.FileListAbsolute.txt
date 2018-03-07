@@ -1,0 +1,7 @@
+c:\users\vamshikrishna.pabba\source\repos\Casting\Casting\bin\Debug\Casting.exe.config
+c:\users\vamshikrishna.pabba\source\repos\Casting\Casting\bin\Debug\Casting.exe
+c:\users\vamshikrishna.pabba\source\repos\Casting\Casting\bin\Debug\Casting.pdb
+c:\users\vamshikrishna.pabba\source\repos\Casting\Casting\obj\Debug\Casting.csproj.CoreCompileInputs.cache
+c:\users\vamshikrishna.pabba\source\repos\Casting\Casting\obj\Debug\Casting.exe
+c:\users\vamshikrishna.pabba\source\repos\Casting\Casting\obj\Debug\Casting.pdb
+c:\users\vamshikrishna.pabba\source\repos\Casting\Casting\obj\Debug\Casting.csprojResolveAssemblyReference.cache
