@@ -52,27 +52,36 @@ namespace Casting
             //IEnumerable<object>  objenum  =stringlist;
 
 
-            //Demo();
+            Demo();
 
 
-           
 
 
-            try
-            {
-                Vehichle vehichle = new Vehichle();
-                double m = vehichle.MileageCalculator(-1, -2, -3);
-            }
-            catch (NegativeValueException e)
-            {
-                Console.WriteLine(e);
-            }
-            Console.ReadKey();
+
+            //try
+            //{
+            //    Vehichle vehichle = new Vehichle();
+            //    double m = vehichle.MileageCalculator(-1, -2, -3);
+            //}
+            //catch (NegativeValueException e)
+            //{
+            //    Console.WriteLine(e);
+            //}
+            //Console.ReadKey();
         }
 
         public static void Demo()
         {
-            Demo();
+            try
+            {
+                Demo();
+            }
+            catch (StackOverflowException e)
+            {
+                Console.WriteLine(e);
+                
+            }
+            
             Console.WriteLine("in demo method ");
         }
 
