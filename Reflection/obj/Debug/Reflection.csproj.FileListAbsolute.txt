@@ -1,0 +1,7 @@
+c:\Users\vamshikrishna.pabba\source\repos\Casting\Reflection\bin\Debug\Reflection.exe.config
+c:\Users\vamshikrishna.pabba\source\repos\Casting\Reflection\bin\Debug\Reflection.exe
+c:\Users\vamshikrishna.pabba\source\repos\Casting\Reflection\bin\Debug\Reflection.pdb
+c:\Users\vamshikrishna.pabba\source\repos\Casting\Reflection\obj\Debug\Reflection.csprojResolveAssemblyReference.cache
+c:\Users\vamshikrishna.pabba\source\repos\Casting\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+c:\Users\vamshikrishna.pabba\source\repos\Casting\Reflection\obj\Debug\Reflection.exe
+c:\Users\vamshikrishna.pabba\source\repos\Casting\Reflection\obj\Debug\Reflection.pdb
